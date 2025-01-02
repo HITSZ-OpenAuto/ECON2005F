@@ -1,2 +1,3 @@
 category: 跨专业选修
+semester: *
 name: 经济学原理
