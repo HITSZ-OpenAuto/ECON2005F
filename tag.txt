@@ -1,3 +1,2 @@
-category: 跨专业选修课
-semester: 第二学年秋季
+category: 跨专业选修
 name: 经济学原理
