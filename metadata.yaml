@@ -1,0 +1,103 @@
+ID: "ECON2005F"
+SimilarID: []
+Name: "经济学原理"
+CourseProperty:
+  - Year: "2023_2024"
+    Name: []
+    Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "ECON2005F"
+    CourseName: "经济学原理"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: 10
+      - Name: "作业"
+        Percentage: 15
+      - Name: "生活中的经济学"
+        Percentage: 15
+      - Name: "期中考试"
+        Percentage: 30
+      - Name: "期末考试"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+  - Year: "2024_2025"
+    Name: ["经济学（第二学士学位）"]
+    Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "ECON2005F"
+    CourseName: "经济学原理"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: 10
+      - Name: "作业"
+        Percentage: 15
+      - Name: "生活中的经济学"
+        Percentage: 15
+      - Name: "期中考试"
+        Percentage: 30
+      - Name: "期末考试"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+  - Year: "2025_2026"
+    Name: ["经济学（第二学士学位）"]
+    Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "ECON2005F"
+    CourseName: "经济学原理"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: 10
+      - Name: "作业"
+        Percentage: 15
+      - Name: "生活中的经济学"
+        Percentage: 15
+      - Name: "期中考试"
+        Percentage: 30
+      - Name: "期末考试"
+        Percentage: 30
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
