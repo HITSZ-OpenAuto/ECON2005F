@@ -1,0 +1,16 @@
+course_name: "经济学原理"
+course_code: "ECON2005F"
+notices: ""
+grading:
+  "0000": "考勤(10%) + 作业(15%) + 生活中的经济学(15%) + 期中考试(30%) + 期末考试(30%)"
+teachers:
+  - name: "Zhou Yu"
+    reviews: []
+textbooks: []
+online_resources: []
+about_course: []
+about_exam: []
+study_advice: []
+schedule: []
+related_links: []
+misc: []
