@@ -12,6 +12,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - Zhou Yu(周豫)
   <!-- TOML-ITEM: id="review-Zhou Yu(周豫)-1" -->
   - **授课风格**：
